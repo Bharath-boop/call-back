@@ -3,7 +3,6 @@ setTimeout(() => {
     head.innerText = "10"
     setTimeout(() => {
         head.innerText = "9"
-
         setTimeout(() => {
             head.innerText = "8"
             setTimeout(() => {
@@ -21,7 +20,7 @@ setTimeout(() => {
                                     setTimeout(() => {
                                         head.innerText = "1"
                                         setTimeout(() => {
-                                            head.innerText = "HAPPY INDEPENDENTS"
+                                            head.innerText = "Happy Independence Day"
                                         }, 1000)
                                     }, 1000)
                                 }, 1000)
