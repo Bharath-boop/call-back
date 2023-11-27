@@ -1,0 +1,11 @@
+.container{
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    color: red;
+    margin: 250px;
+    box-shadow: rgba(238, 10, 10, 0.25) 0px 54px 55px, rgba(80, 24, 182, 0.999) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
